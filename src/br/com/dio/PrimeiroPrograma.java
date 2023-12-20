@@ -2,6 +2,8 @@ package br.com.dio;
 
 import br.com.dio.model.Gato;
 
+import java.util.Scanner;
+
 public class PrimeiroPrograma {
     public static void main(String[] args) {
 //        int a = 5;
